@@ -1,0 +1,6 @@
+framework module KTMeetSDK {
+  umbrella header "KTMeetSDK.h"
+
+  export *
+  module * { export * }
+}

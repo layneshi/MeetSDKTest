@@ -1,0 +1,115 @@
+/* 
+  Localizable.strings
+  KTMeetSDK
+
+  Created by layne on 2020/2/3.
+  Copyright © 2020 layne. All rights reserved.
+*/
+
+
+"KTMeetMine"="Mine";
+"KTHost"="Host";
+"KTAttend"="Attend";
+"KTJoinMeet"="joined the meeting";
+"KTMeetIsOver"="The meeting is over";
+"KTHasDroped"="You have been removed from the meet";
+"KTLeaveMeet"="left the meeting";
+"KTLeaveTips"="Do you want to leave the meeting?";
+"KTConfirm"="Confirm";
+"KTCancel"="Cancel";
+"KTTips"="Tips";
+"KTExitMeet"="Exit meet";
+"KTEndMeet"="End meet";
+"KTMuteSuccess"="Mute Succeed";
+"KTCancelSuccess"="Cancel Succeed";
+"KTMakeHost"="Nominate Host";
+"KTDrop"="Remove";
+"KTDropTips"="Are you sure about expelling";
+"KTDropSuccess"="Removed";
+"KTAttendList"="AttendLists";
+"KTInvite"="Invite";
+"KTMute"="Mute";
+"KTMeetInfo"="Info";
+"KTMeetId"="MeetID";
+"KTCopy"="Copy";
+"KTCopySuccess"="Copy succeed";
+
+
+//预约会议
+"KTempty_meetlists"="No meeting scheduled";
+"KTAdd"="add";
+"KTName"="Name";
+"KTPhoneNum"="Phone number";
+"KTemail"="Email";
+"KTRealName"="Real name";
+"KTPhoneType"="Mobile phone number/landline, for instance 010-36488590";
+"KTemailType"="Please enter your email";
+"KTneed_useInfo"="Please enter attendee's name";
+"KTphone_emailTips"="Phone number/ email address";
+"KTinvite_people"="Invite participants";
+"KTmobile_contacts"="Mobile phone contacts";
+"KTadd_manually"="Add participants manually";
+"personal_contacts"="Personal contacts";
+"org_contacts"="Organizational contacts";
+"org_groups"="Organizational groups";
+"schedule_meetings"="subscribed meeting";
+"whosesmeet"="'s meet";
+"KTDone"="Done";
+"meeting_subject"="Meeting topic";
+"login_need_meeting"="Please fill in the name of the meeting.";
+"need_meeting_subject"="PLease enter the topic.";
+"creating"="Creating...";
+"create failed"="Failed to create meeting.";
+"host_phone"="host's phone number";
+"need_host_phone"="Please enter host's phone number";
+"host_name"="host's name";
+"need_host_name"="Please enter host's name";
+"meet_date"="Meeting date";
+"meet_time"="Meeting time";
+"meet_during"="Meeting duration";
+"hours"="Hours";
+"click_select"="Select";
+"Muth_meet"="Mute attendee when they join";
+"toselect"="Select participants";
+"delete"="Delete";
+"minute"="minute";
+"meet_counts"="Meeting frequency";
+"meeting_notice"="Meeting reminder";
+"end_date"="End date";
+"need_meeting_subject"="PLease enter the topic.";
+"empty_meetlength"="Please select the length of the meeting";
+"empty_meettime"="Please select the meeting start time";
+"empty_meetendDate"="Please select the end date of the meeting";
+"Hour"="Hour";
+"Minute"="Minute";
+"Second"="Second";
+"Single"="Single";
+"Daily"="daily";
+"Days"="every weekday";
+"weekly"="weekly";
+"monthly"="monthly";
+"Monday"="Monday";
+"Tuesday"="Tuesday";
+"Wednesday"="Wednesday";
+"Thursday"="Thursday";
+"Friday"="Friday";
+"Saturday"="Saturday";
+"Sunday"="Sunday";
+"end_date"="End date";
+"week_1"="First week";
+"week_2"="Second week";
+"week_3"="Third week";
+"week_4"="Fourth week";
+"week_5"="Last week";
+"no_remind"="No reminder";
+"mail_remind"="Email alerts";
+"message_remid"="SMS alerts";
+"messageAndMail_remind"="Email and SMS alerts";
+"Year"="Year";
+"Month"="Month";
+"Day"="Day";
+"listIsEmpty"="The list is empty";
+"meetLists"="Lists";
+"today"="Today";
+"today_meet"="upcoming meeting";
+"KTCancelMeet"="Cancel meeting";
